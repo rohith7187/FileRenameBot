@@ -28,8 +28,8 @@ class Translation(object):
     ABOUT_ME = """<b>Meh : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n i can also convert files into videos \n Join @Botclones If You Found Meh Useful</b>"""
     HELP_USER = """Ohh You Want Help?? 😅
     
-1.🔹 <b>Send me any Telegram File.</b> \n
-2.🔹 <b>Reply to that message with /rename New file name.extnsion</b> \n
-3.🔹 <b> Send A Photo to make it as permanent Thumbnail</b> \n
-4.🔹 <b> I Can Also Convert Files Into Video through /c2v Command </b>   \n \n <b>Made With Love By: @Botclones</b>"""
+1.🔹 <b>నాకు ఒక ఫైల్ పంపు.</b> \n
+2.🔹 <b>ఆ ఫైల్ కు రిప్లై ఇస్తు /rename .ఎక్స్టెన్షన్ ఇవ్వు</b> \n
+3.🔹 <b> ఒక మంచి ఫోటో పంపు థంబ్నెయిల్ పెడ్తా</b> \n
+4.🔹 <b> నేను ఫైల్స్ ని వీడియోస్ గ కూడా కంటర్ట్ చేస్తా /c2v కమాండ్ </b>   \n \n <b>ప్రేమతో మీ: @Botclones</b>"""
 
