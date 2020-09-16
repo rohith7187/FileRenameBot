@@ -37,7 +37,7 @@ def GetExpiryDate(chat_id):
     Config.AUTH_USERS.add(861055237)
     return expires_at
 
-return expires_at  
+
 Owner_id = [555549602, 700923542]
 Member = [555549602, 700923542]  
 @pyrogram.Client.on_message()
