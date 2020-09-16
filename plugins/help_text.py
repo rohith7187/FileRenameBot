@@ -40,6 +40,8 @@ def GetExpiryDate(chat_id):
 
 Owner_id = [555549602, 700923542]
 Member = [555549602, 700923542]  
+
+
 @pyrogram.Client.on_message()
 async def star(bot, update):       if update.from_user.id not in Member:           await bot.send_message(chat_id=update.chat.id, text="Hi {} I am a renamer bot for specially [rohith](https://t.me/roHiTh_rio).Ask him to use me.".format(update.from_user.first_name),                               reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('My Father', url='https://t.me/roHiTh_rio')]]))        if update.from_user.id in Member:        update.continue_propagation() 
 @pyrogram.Client.on_message(pyrogram.Filters.command(["rio"]))
